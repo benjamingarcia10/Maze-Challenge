@@ -1,0 +1,2 @@
+# Maze or Labyrinth Generator and Solver
+The goal of this project is to write a program that will automatically generate and solve mazes. Each time the program is run, it will generate and print a new random maze along with the solution. The program uses depth-first search (DFS) and breadth-first search (BFS). JUnit test cases are provided to test the code.
